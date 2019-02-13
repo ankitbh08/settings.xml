@@ -21,8 +21,8 @@
    <id>ankit</id>
    <active>true</active>
    <protocol>https</protocol>
-   <username>665383</username>
-   <password>sinha@blr321</password>
+   <username></username>
+   <password></password>
    <host>proxy.cognizant.com</host>
    <port>6050</port>
    <nonProxyHosts>local.net</nonProxyHosts>
